@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "Try talking louder I have headsets in my ears",
         "I want to answer you but my programmer Hamza refused to broke people",
         "Better live that and get your national id to vote kyagulanyi sentamu aka Bobi Wine",
-        "Am eating wait I swallow they don't talk while eating..try again later"
+        "Am eating wait I swallow they don't talk while eating..try again later",
         "Nyoko amazi ask strong questions",
         "kale laba gano amazi gembwa. Does your mom know about the Ai your using right now "
     ];
